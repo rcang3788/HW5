@@ -1,0 +1,15 @@
+C:\舊資料\大學\大一下\Fundamental Programming Design\bin\Debug\net6.0\Fundamental Programming Design.exe
+C:\舊資料\大學\大一下\Fundamental Programming Design\bin\Debug\net6.0\Fundamental Programming Design.deps.json
+C:\舊資料\大學\大一下\Fundamental Programming Design\bin\Debug\net6.0\Fundamental Programming Design.runtimeconfig.json
+C:\舊資料\大學\大一下\Fundamental Programming Design\bin\Debug\net6.0\Fundamental Programming Design.dll
+C:\舊資料\大學\大一下\Fundamental Programming Design\bin\Debug\net6.0\Fundamental Programming Design.pdb
+C:\舊資料\大學\大一下\Fundamental Programming Design\obj\Debug\net6.0\Fundamental Programming Design.csproj.AssemblyReference.cache
+C:\舊資料\大學\大一下\Fundamental Programming Design\obj\Debug\net6.0\Fundamental Programming Design.GeneratedMSBuildEditorConfig.editorconfig
+C:\舊資料\大學\大一下\Fundamental Programming Design\obj\Debug\net6.0\Fundamental Programming Design.AssemblyInfoInputs.cache
+C:\舊資料\大學\大一下\Fundamental Programming Design\obj\Debug\net6.0\Fundamental Programming Design.AssemblyInfo.cs
+C:\舊資料\大學\大一下\Fundamental Programming Design\obj\Debug\net6.0\Fundamental Programming Design.csproj.CoreCompileInputs.cache
+C:\舊資料\大學\大一下\Fundamental Programming Design\obj\Debug\net6.0\Fundamental Programming Design.dll
+C:\舊資料\大學\大一下\Fundamental Programming Design\obj\Debug\net6.0\refint\Fundamental Programming Design.dll
+C:\舊資料\大學\大一下\Fundamental Programming Design\obj\Debug\net6.0\Fundamental Programming Design.pdb
+C:\舊資料\大學\大一下\Fundamental Programming Design\obj\Debug\net6.0\Fundamental Programming Design.genruntimeconfig.cache
+C:\舊資料\大學\大一下\Fundamental Programming Design\obj\Debug\net6.0\ref\Fundamental Programming Design.dll
